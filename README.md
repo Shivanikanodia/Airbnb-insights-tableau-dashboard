@@ -1,6 +1,6 @@
 # Airbnb-insights-tableau-dashboard
 
-This project analyzes Aribnb prcing, revene and listings data and presents insights through a Tableau dashboard.
+This project analyzes Airbnb pricing, revenue and listings data and presents insights through a Tableau dashboard.
 
 👉 [View the interactive Tableau Dashboard](https://public.tableau.com/app/profile/shivani.kanodia/viz/AirbnbInsightsDashboard/Dashboard1)
 
